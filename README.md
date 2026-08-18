@@ -37,6 +37,10 @@ en el compromiso precisión/recall y en dónde se coloca el umbral.
 7. **Comparación final** — *boxplots* de la distribución de métricas entre configuraciones,
    importancia de variables e intervalos de confianza sobre las predicciones.
 
+![Barrido de umbrales — el mejor F1 está en 0,36, no en 0,5](img/seleccion_umbral.png)
+
+![Matrices de confusión por umbral](img/matriz_confusion.png)
+
 ## Estructura del repositorio
 
 | Ruta | Contenido |
